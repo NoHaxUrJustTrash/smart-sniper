@@ -22,9 +22,9 @@ logo = rf"""{Fore.GREEN}
 ▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▀▄▀▀▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀
 """
 print(logo)
-print(Fore.BLUE + "With the wonderful assistance of Nobody cus im da best\n" + Fore.RESET)
-print("Make sure to Thank Parkways")
-print("If you want to boost or donate message Parkways#3584 on discord")
+print(Fore.BLUE + "ALL CREDIT GOES TO COOLKIDMACHO!!\n" + Fore.RESET)
+print("Make sure to Thank CoolKidMacho")
+print("If you want to boost or donate message CoolKidMacho on discord")
 end = []
 orgdel = 0
 global delay
