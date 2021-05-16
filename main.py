@@ -15,17 +15,17 @@ import subprocess
 init(convert=True, autoreset=True)
 
 # os.system("cls" if os.name == "nt" else "clear")
-logo = rf"""{Fore.GREEN}
-  __  __ __  __  ___ _____    __  __  _ _ ___ ___ ___
-/' _/|  V  |/  \| _ \_   _| /' _/|  \| | | _,\ __| _ \
-`._`.| \_/ | /\ | v / | |   `._`.| | ' | | v_/ _|| v /
-|___/|_| |_|_||_|_|_\ |_|   |___/|_|\__|_|_| |___|_|_\
+logo = rf"""{Fore.BLUE}
+
+█─▄─▄─█▄─▄▄▀██▀▄─██─▄▄▄▄█─█─███─▄▄▄▄█▄─▀█▄─▄█▄─▄█▄─▄▄─█▄─▄▄─█▄─▄▄▀█
+███─████─▄─▄██─▀─██▄▄▄▄─█─▄─███▄▄▄▄─██─█▄▀─███─███─▄▄▄██─▄█▀██─▄─▄█
+▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▀▄▀▀▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀
 """
 print(logo)
-print(Fore.BLUE + "Created by coolkidmacho#0001" + Fore.RESET)
-print(Fore.BLUE + "With the wonderful assistance of Kqzz#0001\n" + Fore.RESET)
+print(Fore.BLUE + "Created by Parkways#3584 + Fore.RESET)
+print(Fore.BLUE + "With the wonderful assistance of Nobody cus im da best\n" + Fore.RESET)
 print("Make sure to join https://discord.gg/KweaD6G97f")
-print("If you want to boost or donate message coolkidmacho#0001 on discord")
+print("If you want to boost or donate message Parkways#3584 on discord")
 end = []
 orgdel = 0
 global delay
