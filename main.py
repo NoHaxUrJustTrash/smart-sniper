@@ -15,16 +15,15 @@ import subprocess
 init(convert=True, autoreset=True)
 
 # os.system("cls" if os.name == "nt" else "clear")
-logo = rf"""{Fore.BLUE}
+logo = rf"""{Fore.GREEN}
 
 █─▄─▄─█▄─▄▄▀██▀▄─██─▄▄▄▄█─█─███─▄▄▄▄█▄─▀█▄─▄█▄─▄█▄─▄▄─█▄─▄▄─█▄─▄▄▀█
 ███─████─▄─▄██─▀─██▄▄▄▄─█─▄─███▄▄▄▄─██─█▄▀─███─███─▄▄▄██─▄█▀██─▄─▄█
 ▀▀▄▄▄▀▀▄▄▀▄▄▀▄▄▀▄▄▀▄▄▄▄▄▀▄▀▄▀▀▀▄▄▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▀▄▄▄▀▀▀▄▄▄▄▄▀▄▄▀▄▄▀
 """
 print(logo)
-print(Fore.BLUE + "Created by Parkways#3584 + Fore.RESET)
 print(Fore.BLUE + "With the wonderful assistance of Nobody cus im da best\n" + Fore.RESET)
-print("Make sure to join https://discord.gg/KweaD6G97f")
+print("Make sure to Thank Parkways")
 print("If you want to boost or donate message Parkways#3584 on discord")
 end = []
 orgdel = 0
